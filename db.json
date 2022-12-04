@@ -62,6 +62,20 @@
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 9
+    },
+    {
+      "titulo": "De Views para Jetpack Compose: Integração e migração de projetos | #AluraMais",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/ly8e6WB0YQo",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "[SFM] Mario's NightMare",
+      "descricao": "5 mil visualisações",
+      "url": "https://youtube.com/embed/PyKBLQgXM_k",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
     }
   ]
 }

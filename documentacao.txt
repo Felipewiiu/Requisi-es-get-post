@@ -1,0 +1,8 @@
+-- Sobre o arquivo json
+
+Significa javascript object notation, é um tipo de formato de texto que ajuda a trasferência de dados de um sistema para o outro.
+
+-- Instalando o npm install json-server
+
+Primeiro se faz o comando npm init e depois as configurações
+Depois o npm install json-server
